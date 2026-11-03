@@ -1,2 +1,2 @@
 # Eesti_wordle
-Created with CodeSandbox
+Created in CodeSandbox
